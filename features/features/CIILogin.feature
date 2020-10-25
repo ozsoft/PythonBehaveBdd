@@ -9,3 +9,4 @@ Feature: Login
     Examples:
       | pin                    | password |
       | ozgurgerilla@gmail.com | gogogo   |
+      | ozgurgerilla1@gmail.com| gogogo   |
