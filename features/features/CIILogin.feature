@@ -5,6 +5,7 @@ Feature: Login
     Given I am ozgur
     When I login with my <pin> and <password>
     Then I should see my PIN on the dashboard
+
     Examples:
       | pin                    | password |
       | ozgurgerilla@gmail.com | gogogo   |
